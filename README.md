@@ -81,10 +81,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
+# 📘 AI PDF Q&A App using RAG
 ---
 
 ## 🔥 Future Improvements
